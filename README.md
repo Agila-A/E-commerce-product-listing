@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # E-commerce Product Listing
 
 ## Overview
@@ -22,15 +22,3 @@ This provides a simplified version of an e-commerce platform that demonstrates k
 - **React Icons**: For the shopping cart icon.
 - **Prop-Types**: For type-checking component props.
 
-
-
-=======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 9946cad (Initial commit for the E-commerce product listing project)
